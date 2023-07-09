@@ -1,4 +1,12 @@
-![Kayak](https://seekvectorlogo.com/wp-content/uploads/2018/01/kayak-vector-logo.png)
+=======
+
+# How to read my files
+
+Part 1: Part1_Choose_top5_cities.ipynb
+Part 2: Part2_Scrap_hotels.ipynb
+Additionnal files (pictures, scrapping results) to be found in other folders
+
+=======
 
 # Plan your trip with Kayak
 
