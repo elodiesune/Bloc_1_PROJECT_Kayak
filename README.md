@@ -54,7 +54,6 @@ As the project has just started, your team doesn't have any data that can be use
 
 The marketing team wants to focus first on the best cities to travel to in France. According to [One Week In.com](https://one-week-in.com/35-cities-to-visit-in-france/), here are the top 35 cities to visit in France:
 
-```python
 [
     "Mont Saint Michel",
     "St Malo",
