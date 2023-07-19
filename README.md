@@ -2,13 +2,14 @@
 
 # How to read my files
 
-Part 1: Part1_Choose_top5_cities.ipynb
+Video: https://share.vidyard.com/watch/PvbSX5Y8AWAZenSRqtyHbv?
 
-Part 2: Part2_Scrap_hotels.ipynb
+Code:
+    - Part 1: Part1_Choose_top5_cities.ipynb
+    - Part 2: Part2_Scrap_hotels.ipynb
 
 Additionnal files (pictures, scrapping results) to be found in other folders
-Most graphs are interactive but can't be displayed on Github, so only a static copy in jpg is shown here. 
-Please download and open the main python file, remove the hashtag before fig.show() to watch interactive graphs. 
+Most graphs are interactive but can't be displayed on Github, so only a static copy in jpg is shown here. Please download and open the main python file, remove the hashtag before fig.show() to watch interactive graphs. 
 
 
 =======
